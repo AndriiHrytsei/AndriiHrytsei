@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Javascript**
-
 - 📫 How to reach me **andrii.hrytsei@gmail.com**
 
 - ⚡ Fun fact **I like spending time with my best friends**

@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **andrii.hrytsei@gmail.com**
 
-- ⚡ Fun fact **I like spending time with my best friends**
+- ⚡ Fun fact **I am very passionate about programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **andrii.hrytsei@gmail.com**
 
-- ⚡ Fun fact **I am very passionate about programming**
+- ⚡ Fun fact **Cat is my favourite animal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
